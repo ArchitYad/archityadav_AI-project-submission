@@ -23,7 +23,6 @@ This project analyzes the sentiment of user email communications to identify pat
 | 3     | patti.thompson@enron.com| 0.186667           |
 
 ### Top 3 Positive Users (by Weighted Sentiment Score)
-> Weighted score accounts for message volume, reducing noise from outliers.
 | Rank | User Email               | Weighted Score |
 |-------|-------------------------|----------------|
 | 1     | lydia.delgado@enron.com | 65.0           |
